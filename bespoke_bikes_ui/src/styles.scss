@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@use './tailwind.css';
+@use './assets/layout/layout.scss';
+@use 'primeicons/primeicons.css';
+@use './assets/demo/demo.scss';
+@use './assets/demo/code.scss';
+@use './assets/demo/flags/flags.scss';
+
+// @use 'primeng/theme/lara-light-indigo/theme.css';  // Correct theme path
+// @use 'primeng/primeng.min.css'; // Core PrimeNG styles
+// @use 'primeicons/primeicons.css'; // Icons
+    
